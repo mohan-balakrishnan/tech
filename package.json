@@ -1,5 +1,5 @@
 {
-  "name": "tech.github.io",
+  "name": "tech",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mohan-balakrishnan/tech.github.io.git"
+    "url": "https://github.com/mohan-balakrishnan/tech.git"
   },
   "scripts": {
     "start": "react-scripts start",
